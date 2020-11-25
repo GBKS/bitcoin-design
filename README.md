@@ -4,7 +4,7 @@ I have been focused on helping improve design in the bitcoin ecosystem full-time
 
 ## The bitcoin design community
 
-Founded in mid 2020, a community has formed on [Slack](http://bitcoindesigners.org) and [Github](https://github.com/bitcoindesign) to collaborate on improving the user experience of bitcoin. I help structure and organize the community by organizing calls, helping with a bitcoin design newsletter, being a Github repo maintainer, helping with development of the website and various other organizational things. It's awesome. You should join.
+Founded in mid 2020, a community has formed on [Slack](http://bitcoindesigners.org) and [Github](https://github.com/bitcoindesign) to collaborate on improving the user experience of bitcoin. I help structure and organize the community by [organizing calls](https://github.com/BitcoinDesign/Meta/issues), helping with a [bitcoin design newsletter](https://bitcoindesign.substack.com), being a Github repo maintainer, helping with development of the website and various other organizational things. It's awesome. You should join.
 
 ## The bitcoin design guide
 
