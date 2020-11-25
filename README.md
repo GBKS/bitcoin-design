@@ -8,7 +8,7 @@ Founded in mid 2020, a community has formed on [Slack](http://bitcoindesigners.o
 
 ## The bitcoin design guide
 
-The first big project of the bitcoin design community ([repo](https://github.com/BitcoinDesign/Guide)), this is an effort to help designers in the bitcoin space by providing documents and resources. This includes introductions to the most important topics, to best practices, UI kits, and more. I am focused on the "Getting started" section and overall coordination of the guide effort.
+The first big project of the bitcoin design community ([repo](https://github.com/BitcoinDesign/Guide)), this is an effort to help designers in the bitcoin space by providing documents and resources. This includes introductions to the most important topics, to best practices, UI kits, and more. I am focused on the "Getting started" section and overall coordination of the guide effort. Review and help on the guide is super highly appreciated. Check the preview link below and leave your comments on the linked pull request. If you don't like Github, ping me on [Slack](http://bitcoindesigners.org).
 
 Documents and links:
 
