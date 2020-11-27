@@ -21,5 +21,5 @@ Documents and links:
 
 ## Multisig wallets
 
-Self-custody of larger amounts of bitcoin is still a complex task that requires technical knowledge. I am working on finding ways simplify the user experience of multisig wallets, as they require more complex technical setups for users to manage, as well as more interaction in setups that involve multiple people. Additionally, multisig wallets usually involve higher amounts and therefore require better security. This work is still pretty early. Lots of research and figure out.
+Self-custody of larger amounts of bitcoin is still a complex task that requires technical knowledge. I am working on finding ways simplify the user experience of multisig wallets, as they require more complex technical setups for users to manage, as well as more interaction in setups that involve multiple people. Additionally, multisig wallets usually involve higher amounts and therefore require better security. This work is still pretty early. Lots of research to do and things to figure out.
 
