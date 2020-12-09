@@ -21,7 +21,7 @@ The first big project of the bitcoin design community ([repo](https://github.com
 
 Documents and links:
 
-- "Getting started" chapter ([work-in-progress preview](https://gbks.github.io/Guide/guide/getting-started/introduction/), [pull request](https://github.com/BitcoinDesign/Guide/pull/20))
+- ["Getting started" chapter](https://bitcoin.design/guide/getting-started/introduction/)
 - Illustrations I am working on for the guide ([Figma file](https://www.figma.com/community/file/888680264445459448/Bitcoin-Design-Guide-Illustrations-(work-in-progress%2C-only-by-me)))
 - Bitcoin wallet UI kit ([Figma file](https://www.figma.com/community/file/916680391812923706/Bitcoin-Wallet-UI-Kit-(work-in-progress)))
 
