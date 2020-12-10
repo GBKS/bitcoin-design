@@ -1,13 +1,13 @@
 # Bitcoin design
 
-I have been focused on helping improve design in the bitcoin ecosystem full-time since July 2020, made possible by a generous grant by [Square Crypto](https://squarecrypto.org). Before that I've worked in digital design since 2004 and contributed to the design of the Monero GUI since late 2017. For more background, see my [website](https://www.germanysbestkeptsecret.com). My goal is to not just help with the design of a single project, but also help promote design in the cryptocurrency space overall and help other designers find their way around this exciting space.
+I have been focused on helping improve design in the bitcoin ecosystem full-time since July 2020, made possible by the friendly people of [Square Crypto](https://squarecrypto.org). Before that I've worked in digital design since 2004 and contributed to the design of the Monero GUI since late 2017. For more background, see my [website](https://www.germanysbestkeptsecret.com). My goal is to collaborate directly with projects on their design neeeds, and also help promote design in the cryptocurrency space overall, as well as helping other designers find their way around this exciting area.
 
-I try to share by-products of my work whenever possible. Here are a few places:
+I try to regularly share by-products of my work. Here are a few places:
 
-- [Twitter](http://twitter.com/gbks)
-- [Dribbble](https://dribbble.com/GBKS)
+- [Twitter](http://twitter.com/gbks) for random snippets
+- [Dribbble](https://dribbble.com/GBKS) for the occasional glamour shot
 - [YouTube playlist](https://youtube.com/playlist?list=PL4hsXZYKTCz15guoMZUumWVlL79NlrXYO) with occasional video updates
-- [Shared images folder](/shared-images) with random mockups I share with others
+- [Shared images folder](/shared-images) with diverse mockups I share with others
 
 ## The bitcoin design community
 
@@ -21,11 +21,11 @@ The first big project of the bitcoin design community ([repo](https://github.com
 
 Documents and links:
 
-- "Getting started" chapter ([work-in-progress preview](https://gbks.github.io/Guide/guide/getting-started/introduction/), [pull request](https://github.com/BitcoinDesign/Guide/pull/20))
+- ["Getting started" chapter](https://bitcoin.design/guide/getting-started/introduction/)
 - Illustrations I am working on for the guide ([Figma file](https://www.figma.com/community/file/888680264445459448/Bitcoin-Design-Guide-Illustrations-(work-in-progress%2C-only-by-me)))
 - Bitcoin wallet UI kit ([Figma file](https://www.figma.com/community/file/916680391812923706/Bitcoin-Wallet-UI-Kit-(work-in-progress)))
 
 ## Multisig wallets
 
-Self-custody of larger amounts of bitcoin is still a complex task that requires technical knowledge. I am working on finding ways simplify the user experience of multisig wallets, as they require more complex technical setups for users to manage, as well as more interaction in setups that involve multiple people. Additionally, multisig wallets usually involve higher amounts and therefore require better security. This work is still pretty early. Lots of research to do and things to figure out.
+Self-custody of larger amounts of bitcoin is still a complex task that requires technical knowledge. I am working on finding ways to simplify and streamline the user experience of multisig wallets, as they require more complex technical setups for users to manage, as well as interactions between multiple participants. This work is still pretty early. Lots of research to do and things to figure out.
 
