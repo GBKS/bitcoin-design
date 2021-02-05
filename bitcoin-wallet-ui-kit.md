@@ -11,6 +11,8 @@ This kit ideally evolves over time to include more best practices, use cases and
 
 ## What's included
 
+![Bitcoin wallet UI kit elements](/assets/bitcoin-wallet-ui-kit-elements.png)
+
 The design system in the kit includes the basics:
 
 - Colors
@@ -26,6 +28,8 @@ Additionally, there are components specific to Bitcoin wallets, such as:
 - Address input
 - Fee selection
 - ...
+
+![Bitcoin wallet UI kit screens](/assets/bitcoin-wallet-ui-kit-screens.png)
 
 It also includes detailed user flows, such as:
 
