@@ -42,6 +42,14 @@ It also includes detailed user flows, such as:
 
 You will need a Figma account to use the kit. On the [kit page](https://www.figma.com/community/file/916680391812923706/Bitcoin-Wallet-UI-Kit-(work-in-progress)), press `Duplicate` to create your own copy of the file. You can freely modify it and use it as you desire.
 
+Some use case ideas:
+
+- The foundation for a new Bitcoin wallet project
+- A reference for how to solve a specific user flow or interface execution
+- Create mockups and prototypes to include in the [Bitcoin Design Guide](https://bitcoin.design/guide/)
+- Developers can pick certain elements from the UI kit to include in their application
+- What else...?
+
 ## How to contribute
 
 The kit is a big work-in-progress and you are welcome to chip in. If you have feedback, leave a comment directly in the Figma file or message me on [Twitter](https://twitter.com/gbks). What's helpful:
