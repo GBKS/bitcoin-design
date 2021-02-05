@@ -1,5 +1,5 @@
 
-![Bitcoin wallet UI kit cover image](/assets/bitcoin-wallet-ui-kit-cover.png)
+![Bitcoin wallet UI kit cover image](/assets/bitcoin-wallet-ui-kit-themes.png)
 
 # The mighty Bitcoin wallet UI kit
 
@@ -22,6 +22,8 @@ The design system in the kit includes the basics:
 - General UI elements (buttons, toggles...)
 - Common navigation components (tab bar, side bar...)
 - Screen templates
+
+![Bitcoin wallet UI kit cover image](/assets/bitcoin-wallet-ui-kit-cover.png)
 
 Additionally, there are components specific to Bitcoin wallets, such as:
 
