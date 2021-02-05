@@ -1,0 +1,49 @@
+
+![Bitcoin wallet UI kit cover image](/assets/bitcoin-wallet-ui-kit-cover.png)
+
+# The mighty Bitcoin wallet UI kit
+
+View it on [Figma](https://www.figma.com/community/file/916680391812923706/Bitcoin-Wallet-UI-Kit-(work-in-progress)).
+
+Many designers on Bitcoin products find themselves designing the same set of UI components that have already been thought through by others. The goal of this UI kit is to provide a strong foundation for prototypes, concept explorations and real projects to kickstart their design processes. By not having to worry about the basics, designers can then focus on what makes their products unique. This is part of my work for the [Bitcoin Design Community](https://bitcoin.design).
+
+## What's included
+
+The design system in the kit includes the basics:
+
+- Colors
+- Icons
+- General UI elements (buttons, toggles...)
+- Common navigation components (tab bar, side bar...)
+- Screen templates
+
+Additionally, there are components specific to Bitcoin wallets, such as:
+
+- Balance display
+- Transaction display
+- Address input
+- Fee selection
+
+It also include user flows such as:
+
+- Onboarding
+- Creation and import of single and multi signature wallets
+- Sending
+- Receiving
+- Settings
+- Transaction management
+- Coin mixing
+
+## How to use it
+
+You will need a Figma account to use the kit. On the [kit page](https://www.figma.com/community/file/916680391812923706/Bitcoin-Wallet-UI-Kit-(work-in-progress)), press ´Duplicate´to create your own copy of the file. You can freely modify it and use it as you desire.
+
+## How to contribute
+
+The kit is a big work-in-progress and you are welcome to chip in. If you have feedback, leave a comment directly in the Figma file or message me on [Twitter](https://twitter.com/gbks).
+
+If you want to propose specific design changes, just duplicate the file, make your changes, and let me know. I will then review and merge the changes into the main file. If you know of a better process, let me know.
+
+## License
+
+The kit is published via Figma community under the [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) license.
