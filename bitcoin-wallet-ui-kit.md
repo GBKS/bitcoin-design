@@ -7,6 +7,8 @@ View it on [Figma](https://www.figma.com/community/file/916680391812923706/Bitco
 
 Many designers on Bitcoin products find themselves designing the same set of UI components that have already been thought through by others. The goal of this UI kit is to provide a strong foundation for prototypes, concept explorations and real projects to kickstart their design processes. By not having to worry about the basics, designers can then focus on what makes their products unique. This is part of my work for the [Bitcoin Design Community](https://bitcoin.design).
 
+This kit ideally evolves over time to include more best practices, use cases and application types, based on the needs of open-source Bitcoin designers and projects.
+
 ## What's included
 
 The design system in the kit includes the basics:
@@ -25,7 +27,7 @@ Additionally, there are components specific to Bitcoin wallets, such as:
 - Fee selection
 - ...
 
-It also include user flows such as:
+It also includes detailed user flows, such as:
 
 - Onboarding
 - Creation and import of single and multi signature wallets
