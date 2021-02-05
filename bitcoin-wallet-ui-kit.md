@@ -23,6 +23,7 @@ Additionally, there are components specific to Bitcoin wallets, such as:
 - Transaction display
 - Address input
 - Fee selection
+- ...
 
 It also include user flows such as:
 
@@ -33,6 +34,7 @@ It also include user flows such as:
 - Settings
 - Transaction management
 - Coin mixing
+- ...
 
 ## How to use it
 
