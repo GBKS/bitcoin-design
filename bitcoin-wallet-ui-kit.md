@@ -3,6 +3,8 @@
 
 # The mighty Bitcoin wallet UI kit
 
+_Heads up: It's a work in progress_
+
 View it on [Figma](https://www.figma.com/community/file/916680391812923706/Bitcoin-Wallet-UI-Kit-(work-in-progress)).
 
 Many designers on Bitcoin products find themselves designing the same set of UI components that have already been thought through by others. The goal of this UI kit is to provide a strong foundation for prototypes, concept explorations and real projects to kickstart their design processes. By not having to worry about the basics, designers can then focus on what makes their products unique. This is part of my work for the [Bitcoin Design Community](https://bitcoin.design).
