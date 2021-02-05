@@ -40,7 +40,13 @@ You will need a Figma account to use the kit. On the [kit page](https://www.figm
 
 ## How to contribute
 
-The kit is a big work-in-progress and you are welcome to chip in. If you have feedback, leave a comment directly in the Figma file or message me on [Twitter](https://twitter.com/gbks).
+The kit is a big work-in-progress and you are welcome to chip in. If you have feedback, leave a comment directly in the Figma file or message me on [Twitter](https://twitter.com/gbks). What's helpful:
+
+- Point out mistakes (spelling, technical, visual)
+- Ask for components, screens, etc you think should be added
+- Propose specific improvements
+- Point out alternative approaches
+- Let me know if you made use of the kit
 
 If you want to propose specific design changes, just duplicate the file, make your changes, and let me know. I will then review and merge the changes into the main file. If you know of a better process, let me know.
 
