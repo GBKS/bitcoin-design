@@ -36,7 +36,7 @@ It also include user flows such as:
 
 ## How to use it
 
-You will need a Figma account to use the kit. On the [kit page](https://www.figma.com/community/file/916680391812923706/Bitcoin-Wallet-UI-Kit-(work-in-progress)), press ´Duplicate´to create your own copy of the file. You can freely modify it and use it as you desire.
+You will need a Figma account to use the kit. On the [kit page](https://www.figma.com/community/file/916680391812923706/Bitcoin-Wallet-UI-Kit-(work-in-progress)), press `Duplicate` to create your own copy of the file. You can freely modify it and use it as you desire.
 
 ## How to contribute
 
@@ -48,7 +48,7 @@ The kit is a big work-in-progress and you are welcome to chip in. If you have fe
 - Point out alternative approaches
 - Let me know if you made use of the kit
 
-If you want to propose specific design changes, just duplicate the file, make your changes, and let me know. I will then review and merge the changes into the main file. If you know of a better process, let me know.
+If you want to propose specific design changes, just duplicate the file, make your changes, and let me know. I will then review and merge the changes into the main file. If you have access to the Figma Community features, you can also publish your file as a Remix ([learn more](https://help.figma.com/hc/en-us/articles/360038510693-Guide-to-Figma-Community#Community_files)).
 
 ## License
 
