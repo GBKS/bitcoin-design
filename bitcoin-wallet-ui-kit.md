@@ -1,4 +1,3 @@
-
 ![Bitcoin wallet UI kit cover image](/assets/bitcoin-wallet-ui-kit-themes.png)
 
 # The mighty Bitcoin wallet UI kit
