@@ -57,6 +57,8 @@ Some use case ideas:
 - Developers can pick certain elements from the UI kit to include in their application
 - What else...?
 
+Also check out the [WalletUI](https://github.com/reez/WalletUI) project on Github by [reez](https://github.com/reez). He's turning this kit into an iOS library. Super cool!
+
 ## How to contribute
 
 The kit is a big work-in-progress and you are welcome to chip in. If you have feedback, leave a comment directly in the Figma file or message me on [Twitter](https://twitter.com/gbks). What's helpful:
