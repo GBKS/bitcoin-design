@@ -14,6 +14,10 @@ I try to regularly share by-products of my work. Here are a few places:
 Founded in mid 2020, a community has formed on [Slack](http://bitcoindesigners.org) and [Github](https://github.com/bitcoindesign) to collaborate on improving the user experience of bitcoin. I help structure and organize the community by [organizing calls](https://github.com/BitcoinDesign/Meta/issues), helping with a [bitcoin design newsletter](https://bitcoindesign.substack.com), being a Github repo maintainer, helping with development of the website and various other organizational things. It's awesome. You should join.
 
 - Website source design ([Figma file](https://www.figma.com/community/file/862622015964353400/Bitcoin-Designers-site))
+- [Bitcoin wallet UI kit](bitcoin-wallet-ui-kit.md)
+- Bitcoin icon set ([Figma](https://www.figma.com/community/file/948545404023677970/Bitcoin-icon-set), [Github](https://github.com/Bosch-0/Bitcoin-Icons))
+- [Bitcoin hardware & accessories
+](https://www.figma.com/community/file/946807598525782935/Bitcoin-hardware-%26-accessories)
 
 ## The bitcoin design guide
 
@@ -23,9 +27,7 @@ Documents and links:
 
 - ["Getting started" chapter](https://bitcoin.design/guide/getting-started/introduction/)
 - Illustrations I am working on for the guide ([Figma file](https://www.figma.com/community/file/888680264445459448/Bitcoin-Design-Guide-Illustrations-(work-in-progress%2C-only-by-me)))
-- [Bitcoin wallet UI kit](bitcoin-wallet-ui-kit.md)
 
 ## Multisig wallets
 
 Self-custody of larger amounts of bitcoin is still a complex task that requires technical knowledge. I am working on finding ways to simplify and streamline the user experience of multisig wallets, as they require more complex technical setups for users to manage, as well as interactions between multiple participants. This work is still pretty early. Lots of research to do and things to figure out.
-
