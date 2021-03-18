@@ -16,8 +16,7 @@ Founded in mid 2020, a community has formed on [Slack](http://bitcoindesigners.o
 - Website source design ([Figma file](https://www.figma.com/community/file/862622015964353400/Bitcoin-Designers-site))
 - [Bitcoin wallet UI kit](bitcoin-wallet-ui-kit.md)
 - Bitcoin icon set ([Figma](https://www.figma.com/community/file/948545404023677970/Bitcoin-icon-set), [Github](https://github.com/Bosch-0/Bitcoin-Icons))
-- [Bitcoin hardware & accessories
-](https://www.figma.com/community/file/946807598525782935/Bitcoin-hardware-%26-accessories)
+- Bitcoin hardware illustrations ([Figma](https://www.figma.com/community/file/946807598525782935/Bitcoin-hardware-%26-accessories), [Github](https://github.com/GBKS/bitcoin-hardware-illustrations))
 
 ## The bitcoin design guide
 
