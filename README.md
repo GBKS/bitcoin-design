@@ -30,3 +30,12 @@ Documents and links:
 ## Multisig wallets
 
 Self-custody of larger amounts of bitcoin is still a complex task that requires technical knowledge. I am working on finding ways to simplify and streamline the user experience of multisig wallets, as they require more complex technical setups for users to manage, as well as interactions between multiple participants. This work is still pretty early. Lots of research to do and things to figure out.
+
+Contributions:
+- Contributing to [Specter](https://specter.solutions) as I can find time
+- Design concepts for MyMattress, an iOS wallet based on [Photon](https://docs.photonsdk.org) ([Figma](https://www.figma.com/file/GoXVUJV1mgJiSc4S974Jdh/MyMattress?node-id=812%3A0))
+- Design explorations for the discontinued Junction project ([Figma](https://www.figma.com/file/KPWmeys6teOiwln4gDu1iI/Junction?node-id=133%3A2879))
+
+
+
+
