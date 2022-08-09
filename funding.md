@@ -1,5 +1,5 @@
 
-# Bitcoin Open Design Sustainability
+# Bitcoin open design funding
 
 Open design is about solving design problems together via collaboration and shared resources. We benefit from the collective efforts from the community, and we each contribute in our own ways.
 
@@ -64,6 +64,8 @@ When looking for grant sponsors, make sure to create a well-thought-out proposal
 - What problem you are addressing
 - Why you are a good person to do this work
 - How you will achieve the work (sub-goals, timeline, resources...)
+
+Also see [this post](https://adamjonas.com/bitcoin/funding/grants/grants-bitcoin-open-source/) by Adam Jonas.
 
 Services
 - [Github sponsors](https://github.com/sponsors)
